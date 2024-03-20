@@ -2,6 +2,7 @@ fun main() {
     val question = Question()
 
     //test commit
+    // 조성윤 바보
 
     question.question1()
     question.question2()
